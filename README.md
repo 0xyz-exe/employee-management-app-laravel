@@ -47,3 +47,12 @@ All accounts use the password: `password`
 ## License
 
 MIT
+
+
+## Screenshots
+
+### 01 Dashboard
+![01 Dashboard](docs/screenshots/01_dashboard.png)
+
+### 02 Login
+![02 Login](docs/screenshots/02_login.png)
