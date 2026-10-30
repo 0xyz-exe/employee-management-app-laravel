@@ -13,6 +13,17 @@ A modern Human Resource (HR) and workforce management platform built with Larave
 - ✅ **Approval Workflow**: Administrative review to approve or reject leave requests with feedback notes.
 - ✅ **HR Analytics Dashboard**: High-level overview of total employees, active headcount, department counts, and pending leave applications.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Analitik HR**<br>Metrik jumlah karyawan, divisi operasional, dan antrean persetujuan cuti | ![Dashboard Analitik HR](docs/screenshots/01-dashboard-overview.png) |
+| **Direktori Karyawan**<br>Pencarian data pegawai, kode identitas, departemen, jabatan, dan status | ![Direktori Karyawan](docs/screenshots/02-employee-directory.png) |
+| **Formulir Pendaftaran Karyawan Baru**<br>Perekaman data profil, gaji pokok, tanggal mulai bekerja, dan relasi akun | ![Formulir Pendaftaran](docs/screenshots/03-employee-create-form.png) |
+| **Alur Manajemen & Persetujuan Cuti**<br>Daftar permohonan cuti tahunan/sakit dengan aksi Approve dan Reject | ![Alur Persetujuan Cuti](docs/screenshots/04-leave-requests-workflow.png) |
+
+---
+
 ## Tech Stack
 
 Laravel 13.38.0 · Breeze 2.4 · SQLite · Tailwind CSS
